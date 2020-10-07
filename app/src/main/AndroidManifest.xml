@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".UserListActivity"
+            android:name=".presentation.ui.UserListActivity"
             android:configChanges="orientation"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".UserDetailsActivity"
+            android:name=".presentation.ui.UserDetailsActivity"
             android:configChanges="orientation"
             android:screenOrientation="portrait" />
     </application>

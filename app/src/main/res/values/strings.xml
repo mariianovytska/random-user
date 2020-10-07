@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Random User</string>
     <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="cell_phone">Cell Phone</string>
+    <string name="email">Email</string>
 </resources>
